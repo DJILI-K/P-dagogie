@@ -1,0 +1,174 @@
+PROMPT GÉNÉRIQUE AGRÉGATION SII – ÉPREUVE PRATIQUE
+
+Tu es inspecteur de Sciences Industrielles de l'Ingénieur et membre du jury de l'Agrégation SII.
+
+Je prépare la présentation pédagogique à l'issue d'une épreuve pratique.
+
+Construis une proposition complète de présentation orale cohérente avec les attentes du jury.
+
+Données du sujet :
+
+Niveau :
+[Terminale SI / STI2D / CPGE / autre]
+
+Axe :
+[à compléter]
+
+Thématique :
+[à compléter]
+
+Support :
+[à compléter]
+
+Titre de la séquence :
+[à compléter]
+
+Volume horaire hebdomadaire :
+[à compléter]
+
+Effectif classe entière :
+[à compléter]
+
+Effectif réduit :
+[à compléter]
+
+Compétence(s) du programme :
+[à compléter]
+
+Capacité(s) visée(s) :
+[à compléter]
+
+Savoirs associés :
+[à compléter]
+
+Durée envisagée de la séquence :
+[2 semaines / 3 semaines / autre]
+
+Support principal développé :
+[à compléter]
+
+Je souhaite obtenir :
+
+1. Analyse pédagogique du sujet
+
+2. Proposition de problématique cohérente avec le titre de la séquence
+
+3. Positionnement de la séquence dans la progression annuelle
+
+4. Prérequis nécessaires
+
+5. Tableau de séquence comprenant :
+
+- Séance
+- Modalité (Cours / TD / TP)
+- Durée
+- Objectif pédagogique
+- Compétence ou capacité associée
+- Production attendue
+
+6. Description détaillée de la séance expérimentale :
+
+- Situation problème
+- Objectifs
+- Organisation matérielle
+- Activités élèves
+- Mesures réalisées
+- Exploitation des résultats
+- Trace écrite
+- Différenciation pédagogique
+
+7. Évaluation diagnostique
+
+8. Évaluation formative
+
+9. Évaluation sommative
+
+10. Remédiation
+
+11. Justification pédagogique de tous les choix réalisés
+
+12. Proposition de diaporama de 8 diapositives maximum :
+
+Diapo 1 : Contexte pédagogique
+Diapo 2 : Compétences visées
+Diapo 3 : Positionnement dans la progression
+Diapo 4 : Présentation de la séquence
+Diapo 5 : Séance expérimentale
+Diapo 6 : Évaluation
+Diapo 7 : Différenciation
+Diapo 8 : Conclusion
+
+Contraintes :
+
+- Respecter strictement les programmes.
+- Justifier chaque choix pédagogique.
+- Être réaliste vis-à-vis des effectifs et des moyens matériels.
+- Utiliser le vocabulaire attendu par un jury d'agrégation.
+- Faire apparaître explicitement les compétences, capacités et savoirs associés.
+- Construire une séquence crédible pour un lycée réel.
+- Fournir directement du contenu prêt à être copié dans PowerPoint.
+
+*********************
+VERSION ULTRA-RAPIDE (2 minutes avant l'oral)
+
+Quand tu es en manque de temps :
+À partir des données suivantes :
+
+Support :
+...
+
+Niveau :
+...
+
+Titre de la séquence :
+...
+
+Compétences :
+...
+
+Capacités :
+...
+
+Construis :
+
+1. Une problématique.
+2. Une séquence de 5 séances.
+3. Une séance expérimentale de 2h.
+4. Une évaluation sommative.
+5. Une remédiation.
+6. Un plan de présentation en 8 diapositives.
+
+Présente les résultats sous forme de tableaux directement exploitables dans PowerPoint.
+*********************
+PROMPT SPÉCIAL "SÉANCE EXPÉRIMENTALE"
+
+Quand tu bloques sur le TP :
+Je suis candidat à l'Agrégation SII.
+
+Titre de la séquence :
+...
+
+Compétence :
+...
+
+Capacité :
+...
+
+Support :
+...
+
+Construit une séance expérimentale de 2h permettant de travailler cette capacité.
+
+Je veux :
+
+- Situation problème
+- Objectifs
+- Organisation matérielle
+- Activités élèves
+- Mesures réalisées
+- Exploitation des résultats
+- Différenciation pédagogique
+- Évaluation formative
+- Trace écrite finale
+
+Présente la réponse sous forme de fiche professeur directement exploitable.
